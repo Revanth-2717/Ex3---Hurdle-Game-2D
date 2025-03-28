@@ -64,9 +64,9 @@ public class player : MonoBehaviour
         }
     }
 }
-
+```
 CoinManager.cs :
-
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
