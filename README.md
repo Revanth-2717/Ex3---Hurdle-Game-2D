@@ -91,5 +91,10 @@ public class CoinManager : MonoBehaviour
 ```
 ## OUTPUT:
 
+![starting_output](https://github.com/user-attachments/assets/209cde1b-8381-4a71-a3e0-93a9bff6915d)
+
+![ending_output](https://github.com/user-attachments/assets/4ea59642-3d9f-4c02-954c-f9b6db329fc6)
+
+
 ## RESULT:
 Thus a 2D game using C# program in unity is developed successfully.
